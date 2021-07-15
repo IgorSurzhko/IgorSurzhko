@@ -1,5 +1,5 @@
 - 👋 Hi, I’m IgorSurzhko
-- 👀 I’m interested in JS && everything related to development
+- 👀 I’m interested in Full Stack development && everything related to development
 - 🌱 I’m learning all my life
 - 💞️ I’m open to suggestions
 - 📫 How to reach me ermygut@gmail.com
